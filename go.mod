@@ -4,7 +4,7 @@ go 1.23.2
 
 require (
 	github.com/go-rod/rod v0.116.2
-	golang.org/x/net v0.30.0
+	golang.org/x/net v0.38.0
 )
 
 require (
